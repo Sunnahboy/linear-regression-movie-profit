@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/382663a4-9865-4993-b6cf-b6d599edadf2)
+
 
 # 🎬 Linear Regression: Predicting Movie Profit
 
