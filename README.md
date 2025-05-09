@@ -12,6 +12,7 @@ This project is a beginner-friendly implementation of **Linear Regression** usin
 
 - `Linear Regression.ipynb` — Jupyter notebook with all the code, visualizations, and explanations.
 - `cost_revenue_clean.csv` — Cleaned dataset containing movie cost and revenue information.
+- '02 pythonIntro.ipynb.' - Initial data exploration using pandas – loaded 'lsd_math_score_data.csv', previewed dataset, inspected data type, accessed individual column, and added a new column for reference scoring.
 
 ---
 
